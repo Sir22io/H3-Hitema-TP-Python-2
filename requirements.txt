@@ -4,4 +4,3 @@ uvicorn
 python-multipart
 websockets
 httpx
-buildx
